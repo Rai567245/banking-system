@@ -72,12 +72,12 @@ Account Number	Account Name	    Balance	  PIN	  Status
 
 5. 🧠 OOP Concepts Used
 
-  I. Classes & Objects – Account, ATM, Transaction classes
-  II. Encapsulation – Protected account details
-  III. Constructors – Initialize account data
-  IV. Inheritance – Transaction types
-  V. Polymorphism – Different transaction behaviors
-  VI. Exception Handling – Invalid input, insufficient funds, blocked accounts
+- I. Classes & Objects – Account, ATM, Transaction classes
+- II. Encapsulation – Protected account details
+- III. Constructors – Initialize account data
+- IV. Inheritance – Transaction types
+- V. Polymorphism – Different transaction behaviors
+- VI. Exception Handling – Invalid input, insufficient funds, blocked accounts
 
 ## ▶️ How to Run the Program
 
