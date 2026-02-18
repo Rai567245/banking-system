@@ -157,7 +157,7 @@ Account Number	Account Name	    Balance	  PIN	  Status
 ## 🚀 Future Improvements
 
   - Admin panel for account activation
-  - -File or database storage (MySQL / SQLite)
+  - File or database storage (MySQL / SQLite)
   - GUI version using Tkinter or PyQt
   - Transaction history logging
 
