@@ -1,11 +1,10 @@
-## 🏦 RGBC ATM Transaction System (Python)
+## 🏦 PYTG ATM Transaction System (Python)
 
-A console-based ATM system built in Python as a midterm case study for Computer Programming 2 (COMPROG2).
-This project demonstrates the application of Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, constructors, inheritance, polymorphism, and exception handling, using a real-world banking scenario.
+A console-based ATM system built in Python as a project system proposal in integerative programming & technologies (INTPT). This project demonstrates the application of Object-Oriented Programming (OOP) concepts such as classes, objects, encapsulation, constructors, inheritance, polymorphism, and exception handling, using a real-world banking scenario.
 
 ## 📌 Project Overview
 
-The RGBC (Richard Gwapo Banking Corporation) ATM System simulates basic banking transactions such as:
+The PYTG (Python Tech Group) ATM System simulates basic banking transactions such as:
 
   - Secure user login using account number and PIN
   - Balance inquiry
